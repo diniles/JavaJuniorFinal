@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed5b01e6-aa3c-4a24-90a4-d21b098bb965" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/JavaJuniorFinal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="ed5b01e6-aa3c-4a24-90a4-d21b098bb965" name="Changes" comment="Feat: class ClientOne">
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/Clienttwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +66,63 @@
       <option name="presentableId" value="Default" />
       <updated>1704269639620</updated>
     </task>
+    <task id="LOCAL-00001" summary="Init: java Junior final">
+      <option name="closed" value="true" />
+      <created>1704270058842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704270058842</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Init: java Junior final">
+      <option name="closed" value="true" />
+      <created>1704270069908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704270069908</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Feat: class ChatServer">
+      <option name="closed" value="true" />
+      <created>1704270162439</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704270162439</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Feat: class ClientHandler">
+      <option name="closed" value="true" />
+      <created>1704270208167</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704270208167</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Feat: class ChatClient">
+      <option name="closed" value="true" />
+      <created>1704270258223</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704270258223</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Feat: class ClientOne">
+      <option name="closed" value="true" />
+      <created>1704270312312</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704270312312</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init: java Junior final" />
+    <MESSAGE value="Feat: class ChatServer" />
+    <MESSAGE value="Feat: class ClientHandler" />
+    <MESSAGE value="Feat: class ChatClient" />
+    <MESSAGE value="Feat: class ClientOne" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: class ClientOne" />
   </component>
 </project>
